@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mansson_anton1?label=Follow&style=for-the-badge)](https://twitter.com/mansson_anton1)
 
-## I'm a Developer and hobby photographer!
+## I'm a Softwear engineer!
 
 - 👨‍💻 I’m currently working at Capgemini soon to start at KnowIT!
 - 📚 I’m currently learning everything from React to Python.

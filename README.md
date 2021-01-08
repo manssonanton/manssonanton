@@ -6,7 +6,7 @@
 
 ## I'm a Softwear engineer!
 
-- 👨‍💻 I’m currently working at Capgemini soon to start at KnowIT!
+- 👨‍💻 I’m working at Knowit as a developer
 - 📚 I’m currently learning everything from React to Python.
 - 📷 I love to take photos so check out my webpage and my instagram.
 

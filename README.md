@@ -7,9 +7,12 @@ Developer and Architecht
 *   🌍  I'm based in Malmö, Sweden
 *   📷 I love to take photos so check out my webpage and my instagram.
 *   🖥️  See my portfolio at [manssonanton](http://manssonanton.se)
-*   🧠  I'm learning Astro and Python currently<a href="https://www.twitter.com/mansson_anton1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/mansson_anton1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+*   🧠  I'm learning Astro and Python currently
+
+<a href="https://www.twitter.com/mansson_anton1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/mansson_anton1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
